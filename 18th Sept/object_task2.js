@@ -3,8 +3,17 @@
 let game = {
     typeOfGame: "Cricekt",
     gameName: "EA Cricket 07",
-    gameMode: "Single or Dual Player",
+    gameMode: "Single Player",
     playerName: "P.S. Subramanya Bhat",
+    gameState: {
+        initial: "menu",
+        events: {
+            play: true,
+            quit: false,
+            lost: false,
+            won: false
+        }
+    },
     currentRole: "Batting",
     teamInfo: {
         myTeam: "India",

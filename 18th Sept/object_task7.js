@@ -53,8 +53,8 @@ let reciepe = {
 };
 
 
-// console.log(reciepe.procedure());
+console.log(reciepe.procedure());
 // console.log(reciepe.ingredients.tomatoKetchup);
 // console.log(reciepe.ingredients);
 // console.log(reciepe.remarks);
-console.log(reciepe);
+// console.log(reciepe);
