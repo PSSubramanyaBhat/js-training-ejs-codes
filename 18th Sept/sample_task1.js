@@ -11,7 +11,7 @@ let subramanya = {
         addressLocality: "Bondel",
         addressRegion: "Mangalore",
         state: "Karnatka",
-        postalCode: 575008
+        postalCode: "575008"
     },
     email: "subramanya@gmail.com",
     jobTitle: "Trainee Software Engineer",
@@ -23,7 +23,7 @@ let subramanya = {
         "www.linkedin.com/subba",
         "www.twitter.com/subba"
     ],
-    favouriteGame: "Cricket",
+    favouriteGame: "EA Cricket Sports",
     favouriteAnime: "Naruto",
     favouriteColor: "Orange"
 };

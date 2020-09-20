@@ -15,7 +15,7 @@ let restaurant = {
         },
         dessert: {
             dishname: "Vanilla slab",
-            quantity: "1 plates",
+            quantity: "1 plate",
             cost: "Rs. 150",
         },
         chats: {
@@ -24,7 +24,7 @@ let restaurant = {
             cost: "Rs. 200",
         },
         drinks: {
-            drinkname: "LEmon Juice",
+            drinkname: "Lemon Juice",
             quantity: "4 glass",
             cost: "Rs. 80",
         }
