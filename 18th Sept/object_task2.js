@@ -22,6 +22,7 @@ let game = {
     typeOfCricket: {
         odi: {
             series: {
+                seriesName: false,
                 numberOfMatches: false,
                 opponentTeam: false,
                 currentVenue: false,
@@ -44,6 +45,7 @@ let game = {
             }
         },
         test: {
+            seriesName: false,
             numberOfMatches: false,
             opponentTeam: false,
             currentVenue: false,
@@ -52,11 +54,11 @@ let game = {
         },
         t20i:{
             series: {
+                seriesName: false,
                 numberOfMatches: false,
                 opponentTeam: false,
                 currentVenue: false,
                 stadiumName: false
-
             },
             knockout: {
                 currentState: false,
@@ -75,28 +77,27 @@ let game = {
             }
         },
         t20: {
-            series: {
-                numberOfMatches: false,
-                currentState: false,
-                opponentTeam: false,
-                currentVenue: false,
-                stadiumName: false,
-                previousOpponent: false,
-                previousMatchStatus: false
-            }
+            seriesName: false,
+            numberOfMatches: false,
+            currentState: false,
+            opponentTeam: false,
+            currentVenue: false,
+            stadiumName: false,
+            previousOpponent: false,
+            previousMatchStatus: false
         },
         oneDay: {
-            series: {
-                numberOfMatches: false,
-                currentState: false,
-                opponentTeam: false,
-                currentVenue: false,
-                stadiumName: false,
-                previousOpponent: false,
-                previousMatchStatus: false
-            }
+            seriesName: false,
+            numberOfMatches: false,
+            currentState: false,
+            opponentTeam: false,
+            currentVenue: false,
+            stadiumName: false,
+            previousOpponent: false,
+            previousMatchStatus: false
         },
         firstClass: {
+            seriesName: false,
             currentState: false,
             opponentTeam: false,
             currentVenue: false,

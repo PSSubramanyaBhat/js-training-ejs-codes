@@ -11,7 +11,7 @@ let bank = {
         addressLocality: "Bondel",
         addressRegion: "Mangalore",
         state: "Karnatka",
-        postalCode: 575008
+        postalCode: "575008"
     },
     ifsc: "CORP0123456",
     micr: "562165968",
