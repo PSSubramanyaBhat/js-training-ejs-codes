@@ -2,7 +2,7 @@
 function isEven(x) {
     if (x > 0 && x % 2 === 0) {
         return true;
-    } else if (x > 0 && x % 2 != 0) {
+    } else if (x > 0 && x % 2 !== 0) {
         return false;
     } else {
         // return isEven(x-2);

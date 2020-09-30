@@ -20,5 +20,5 @@ function countChars(s, label) {
     return count;
 }
 
-console.log(countChars('BBBBBS', 'B'));
-console.log(countChars('kakkerlak', 'k'));
+console.log(countChars("BBBBBS", "B"));
+console.log(countChars("kakkerlak", "k"));
